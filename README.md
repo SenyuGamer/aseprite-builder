@@ -24,7 +24,7 @@ This workflow follows the instructions as described at [Aseprite repo](https://g
 5. Use CMake and Ninja to compile
 6. Create zip of release and upload to your own action artifact
 
-# Build times
+# Build times.
 Every month you have 2000 free minutes from GitHub.</br>
 Different Operating Systems costs different amounts of minutes, see [billing for GitHub Actions](https://help.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github/about-billing-for-github-actions#about-billing-for-github-actions)</br>
 So building for all three Operating Systems will cost 130 minutes (20 * 2+10 * 1+8 * 10)</br>
